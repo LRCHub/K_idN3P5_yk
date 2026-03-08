@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Cheap Thrills",
+  "base_artist": "Sia",
+  "createdAt": "2026-03-08T07:57:31.307527Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cheap Thrills",
+      "artist": "David Allan Coe",
+      "has_synced": true,
+      "path": "select/01_Cheap_Thrills_David_Allan_Coe.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cheap Thrills (Album Version)",
+      "artist": "David Allan Coe",
+      "has_synced": false,
+      "path": "select/02_Cheap_Thrills_(Album_Version)_David_Allan_Coe.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cheap Thrills",
+      "artist": "New Kingdom",
+      "has_synced": false,
+      "path": "select/03_Cheap_Thrills_New_Kingdom.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cheap Thrills",
+      "artist": "Herve",
+      "has_synced": false,
+      "path": "select/04_Cheap_Thrills_Herve.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cheap Thrills (feat. Sean Paul)",
+      "artist": "Sia feat. Sean Paul",
+      "has_synced": true,
+      "path": "select/05_Cheap_Thrills_(feat._Sean_Paul)_Sia_feat._Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cheap Thrills",
+      "artist": "Sia feat. Sean Paul",
+      "has_synced": true,
+      "path": "select/06_Cheap_Thrills_Sia_feat._Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cheap Thrills",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/07_Cheap_Thrills_Sia.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cheap Thrills",
+      "artist": "Frank Zappa",
+      "has_synced": true,
+      "path": "select/08_Cheap_Thrills_Frank_Zappa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cheap Thrills",
+      "artist": "Apparat",
+      "has_synced": false,
+      "path": "select/09_Cheap_Thrills_Apparat.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cheap Thrills (feat. Sean Paul)",
+      "artist": "Sia, Sean Paul",
+      "has_synced": true,
+      "path": "select/10_Cheap_Thrills_(feat._Sean_Paul)_Sia,_Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cheap Thrills",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/11_Cheap_Thrills_Sia.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cheap Thrills ft. Sean Paul",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/12_Cheap_Thrills_ft._Sean_Paul_Sia.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cheap Thrills (feat. Sean Paul)",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/13_Cheap_Thrills_(feat._Sean_Paul)_Sia.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cheap Thrills Remix",
+      "artist": "Sia feat. Nicky Jam",
+      "has_synced": true,
+      "path": "select/14_Cheap_Thrills_Remix_Sia_feat._Nicky_Jam.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cheap Thrills (remix) (Feat. Nicky Jam)",
+      "artist": "Sia, Nicky Jam",
+      "has_synced": true,
+      "path": "select/15_Cheap_Thrills_(remix)_(Feat._Nicky_Jam)_Sia,_Nicky_Jam.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Cheap Thrills",
+      "artist": "Sia ft. Sean Paul",
+      "has_synced": true,
+      "path": "select/16_Cheap_Thrills_Sia_ft._Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Cheap Thrills (Mixed)",
+      "artist": "Sean Paul & SIA",
+      "has_synced": true,
+      "path": "select/17_Cheap_Thrills_(Mixed)_Sean_Paul_&_SIA.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Cheap Thrills",
+      "artist": "Sia, Sean Paul",
+      "has_synced": true,
+      "path": "select/18_Cheap_Thrills_Sia,_Sean_Paul.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cheap Thrills",
+      "artist": "Sia",
+      "has_synced": false,
+      "path": "select/pl_01_Cheap_Thrills_Sia.txt"
+    }
+  ]
+}
